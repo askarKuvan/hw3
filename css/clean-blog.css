@@ -465,7 +465,6 @@ body {
 
 #alert
 {
-  text-color: red;
+  color: red;
   border: 3px solid red;
-  display: none;
 }
