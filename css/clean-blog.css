@@ -462,3 +462,10 @@ body {
 {
   text-decoration: underline;
 }
+
+#alert
+{
+  text-color: red;
+  border: 3px solid red;
+  display: none;
+}
